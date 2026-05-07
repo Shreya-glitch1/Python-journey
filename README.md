@@ -1,2 +1,5 @@
 # Python-journey
-My journey of learning python programming as i do projects and test concepts while doing courses. The projects start simple and go up slowly towards more diverse and advance.
+My journey of learning python programming as i do projects and test concepts while doing courses. The projects start simple and go up slowly towards more diverse and advanced.
+
+<br>
+day1.py: A simple band name generator using Python. Where you input the city you grew up in, and an animal name, or the name of your pet. And it outputs the possible band name by combining the city name and the animal name.
