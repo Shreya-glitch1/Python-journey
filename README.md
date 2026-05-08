@@ -22,6 +22,8 @@ The program calculates and displays the amount each person should pay.
 
 ## Day 3 - Treasure Island Game
 
+A simple game made using loops.
+
 A small CLI-based adventure game built using:
 -conditional statements
 -logical operators
