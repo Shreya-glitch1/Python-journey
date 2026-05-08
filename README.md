@@ -1,4 +1,4 @@
-### Python-Journey
+# Python-Journey
 
 My journey of learning Python programming through projects, experiments, and concepts while taking courses. The projects begin with simple fundamentals and gradually progress toward more diverse and advanced topics.
 
