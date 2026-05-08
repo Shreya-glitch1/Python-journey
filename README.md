@@ -1,4 +1,4 @@
-# Python-Journey
+### Python-Journey
 
 My journey of learning Python programming through projects, experiments, and concepts while taking courses. The projects begin with simple fundamentals and gradually progress toward more diverse and advanced topics.
 
@@ -19,3 +19,13 @@ The user inputs:
 - number of people splitting the bill
 
 The program calculates and displays the amount each person should pay.
+
+## Day 3 - Treasure Island Game
+
+A small CLI-based adventure game built using:
+
+-conditional statements
+-logical operators
+-nested loops
+
+Only the correct path leads to the treasure.
