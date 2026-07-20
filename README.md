@@ -30,3 +30,10 @@ A small CLI-based adventure game built using:
 -nested loops
 
 Only the correct path leads to the treasure.
+
+## Day 4 - Rock paper scissors game
+
+Implemented the classic game.
+
+Learnt about the random module.
+Used Python lists and their operations
