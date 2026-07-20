@@ -30,9 +30,9 @@ if num%2 == 0:
 else:
     print ("The number is odd.")"""
     
-print("welcome to Python pizza delivery!")
+#print("welcome to Python pizza delivery!")
 
-size = input("What is the size of pizza you want? S,M,L:")
+"""size = input("What is the size of pizza you want? S,M,L:")
 add_pepperoni = input("Do you want pepperoni? Y/N:")
 add_cheese = input("Do you want extra cheese? Y/N:")
 bill = 0
@@ -50,5 +50,23 @@ if add_pepperoni == "Y":
 if add_cheese == "Y":
     bill +=1
 print(f"Your final bill is: ${bill}.")
+"""
+"""import random 
+random_num = random.randint(1,100)
+print(random_num)
 
+states_of_India = ["Maharashtra", "Karnataka", "Kerala", "Tamil Nadu", "Gujarat"]
+print(states_of_India[0])
+states_of_India.append("Rajasthan")
+print(states_of_India)
+"""
+import random 
+friends = ["Alice", "Bob", "Charlie", "David", "Eve"]
+print(random.choice(friends) + " is going to buy the meal today!")
 
+fruits = ["Strawberries", "Nectarines", "Apples", "Grapes", "Peaches", "Cherries", "Pears"]
+vegetables = ["Spinach", "Kale", "Tomatoes", "Celery", "Potatoes"]
+ 
+dirty_dozen = [fruits, vegetables]
+ 
+print(dirty_dozen[1][1])
